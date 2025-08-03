@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://twitter.com/nishilp91819076" target="blank"><img src="https://img.shields.io/twitter/follow/nishilp91819076?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/nishil-patel-a95004246" target="blank"><img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/nishil-patel-a95004246/)" /></a>
+  <a href="https://linkedin.com/in/nishil-patel-a95004246" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://buildoorx.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-1B1F23?style=for-the-badge&logo=hashnode" /></a>
 </p>
 
