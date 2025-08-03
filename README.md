@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on *DeFi | GameFi | NFT*
 - 🌱 I’m learning more about *Zero-Knowledge Proofs (zk-SNARKs)*
 - ✍ I write at [buildoorx.hashnode.dev](https://buildoorx.hashnode.dev/)
-- 💬 Ask me about *Solidity, Hardhat, EVM, DeFi, and NFTs*
+- 💬 Ask me about *Solidity, Hardhat, Ethers.js, EVM, DeFi, and NFTs*
 - 📫 Reach me: *nishilpatel2729@gmail.com*
 - ⚡ Fun fact: I run on caffeine ☕ + Web3 alpha 🧠
 
@@ -36,13 +36,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
   <img src="https://www.vectorlogo.zone/logos/hardhat_org/hardhat_org-icon.svg" width="40" height="40" alt="hardhat" />
+  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/main/docs/images/ethers-logo.png" width="40" height="40" alt="ethers.js" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" width="40" height="40" alt="evm" />
 </p>
 
 ---
@@ -66,5 +67,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishil-2910&theme=darkhub" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nishil-2910&theme=darkhub" alt="trophies" />
 </p>
