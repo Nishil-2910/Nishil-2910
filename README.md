@@ -64,8 +64,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishil-2910&theme=darkhub" alt="trophies" />
-</p>
