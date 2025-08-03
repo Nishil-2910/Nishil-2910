@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on *NFT smart contracts and dApps*
+- 🔭 I’m currently working on *DeFi | GameFi | NFT*
 - 🌱 I’m learning more about *Zero-Knowledge Proofs (zk-SNARKs)*
 - ✍ I write at [buildoorx.hashnode.dev](https://buildoorx.hashnode.dev/)
 - 💬 Ask me about *Solidity, Hardhat, EVM, DeFi, and NFTs*
